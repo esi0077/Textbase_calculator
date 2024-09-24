@@ -1,5 +1,5 @@
 from back_end import *
-
+import operator
 
 def printMeny():
     print("------------------- Kalkulator -------------------")
