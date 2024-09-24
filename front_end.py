@@ -3,10 +3,10 @@ from back_end import *
 
 def printMeny():
     print("------------------- Kalkulator -------------------")
-    print("| 1. Legg sammen (pluss)                         |")
-    print("| 2. Trekk fra   (minus)                         |")
-    print("| 3. Gange       (***TODO***)                    |")
-    print("| 4. Dele        (***TODO***)                    |")
+    print("| 1. Legg sammen (Pluss)                         |")
+    print("| 2. Trekk fra   (Minus)                         |")
+    print("| 3. Gange       (Gange)                         |")
+    print("| 4. Dele        (Dele)                          |")
     print("| 5. Avslutt                                     |")
     print("--------------------------------------------------")
     menyvalg = input("Velg operasjon fra menyen: ")
